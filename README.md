@@ -79,7 +79,7 @@ Currently working toward becoming a strong programmer and software engineer.
 
 ### 🧩 Competitive Programming
 
-- Solving problems on **Codeforces, LeetCode, and TopCoder**
+- Solving problems on **CodeChef, LeetCode**
 - Practicing **Data Structures & Algorithms**
 - Interested in **algorithm optimization, sliding window, hashing, and greedy techniques**
 
